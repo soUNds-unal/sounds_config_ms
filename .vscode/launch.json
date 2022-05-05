@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch SoundsConfiguracionMsApplication",
+            "request": "launch",
+            "mainClass": "arquesoft.sounds_config_ms.SoundsConfiguracionMsApplication",
+            "projectName": "sounds_config_ms"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-SoundsConfigMsApplication<sounds_config_ms>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "arquesoft.sounds_config_ms.SoundsConfigMsApplication",
+            "projectName": "sounds_config_ms",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}

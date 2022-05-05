@@ -1,0 +1,10 @@
+arquesoft\sounds_config_ms\repositories\SuscripcionRepository.class
+arquesoft\sounds_config_ms\controllers\NotificacionController.class
+arquesoft\sounds_config_ms\controllers\SuscripcionController.class
+arquesoft\sounds_config_ms\controllers\ConfiguracionController.class
+arquesoft\sounds_config_ms\models\Configuracion.class
+arquesoft\sounds_config_ms\models\Notificacion.class
+arquesoft\sounds_config_ms\repositories\NotificacionRepository.class
+arquesoft\sounds_config_ms\SoundsConfigMsApplication.class
+arquesoft\sounds_config_ms\repositories\ConfiguracionRepository.class
+arquesoft\sounds_config_ms\models\Suscripcion.class
